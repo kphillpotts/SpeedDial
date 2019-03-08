@@ -1,0 +1,67 @@
+tiles:
+-
+  name: 'bing'
+  url: 'https://bing.com'
+  txt_color: '#ffffff'
+  bg_color: '#ffb900'
+  tags: ['search']
+-
+  name: 'github'
+  url: 'https://github.com/talk2MeGooseman?tab=repositories'
+  bg_color: '#005483'
+  txt_color: '#ffffff'
+  tags: ['dev']
+-
+  name: 'twitch dev dashboard'
+  url: 'https://dev.twitch.tv/dashboard'
+  bg_color: '#ffffff'
+  txt_color: '#ff5722'
+  tags: ['twitchdev', 'dev'] 
+-
+  name: 'twitch dashboard'
+  url: 'https://www.twitch.tv/talk2megooseman/dashboard'
+  bg_color: '#ffffff'
+  txt_color: '#ff9900'
+  tags: ['twitch', 'stream']
+-
+  name: 'aws'
+  url: 'https://aws.amazon.com'
+  bg_color: '#5f99cf'
+  txt_color: '#ffffff'
+  tags: ['dev']
+-
+  name: 'twitch dev docs'
+  url: 'https://dev.twitch.tv/docs'
+  bg_color: '#191414'
+  txt_color: '#1db954'
+  tags: ['twitchdev', 'docs']
+-
+  name: 'firebase'
+  url: 'https://console.firebase.google.com'
+  bg_color: '#005483'
+  txt_color: '#ffffff'
+  tags: ['firebase', 'dev']
+-
+  name: 'ruby on rails'
+  url: 'https://guides.rubyonrails.org/'
+  bg_color: '#005483'
+  txt_color: '#ffffff'
+  tags: ['docs']
+-
+  name: 'rspec'
+  url: 'https://relishapp.com/rspec/rspec-expectations/v/3-8/docs/built-in-matchers'
+  tags: ['docs']
+-
+  name: 'twitter'
+  url: 'https://twitter.com/talk2megooseman'
+  bg_color: '#005483'
+  txt_color: '#ffffff'
+  tags: ['social']
+-
+  name: 'Safari Books'
+  url: 'https://learning.oreilly.com/'
+  tags: ['learning']
+-
+  name: 'nightbot'
+  url: 'https://beta.nightbot.tv/'
+  tags: ['twitch', 'stream']
