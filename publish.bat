@@ -5,7 +5,7 @@ RMDIR /S /Q public
 md public
 
 git worktree prune
-RMDIR /S /Q ".git/worktees/public/
+RMDIR /S /Q ".git/worktrees/public/"
 
 git worktree add -B gh-pages public origin/gh-pages
 
