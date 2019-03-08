@@ -7,7 +7,7 @@ tiles:
   tags: ['search']
 -
   name: 'github'
-  url: 'https://github.com/talk2MeGooseman?tab=repositories'
+  url: 'https://github.com/kphillpotts?tab=repositories'
   bg_color: '#005483'
   txt_color: '#ffffff'
   tags: ['dev']
