@@ -12,6 +12,12 @@ tiles:
   txt_color: '#ffffff'
   tags: ['dev']
 -
+  name: 'google'
+  url: 'https://google.com'
+  txt_color: '#ffffff'
+  bg_color: '#ffb900'
+  tags: ['search']
+-
   name: 'twitch dev dashboard'
   url: 'https://dev.twitch.tv/dashboard'
   bg_color: '#ffffff'
